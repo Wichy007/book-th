@@ -25,8 +25,8 @@ Rust ได้รับการพิสูจน์มาว่าเหมา
 Rust ยังมีเครื่องมือเพื่อนักพัฒนาที่ทันสมัยในการใช้งานในโลกของการเขียน program ด้วย:
 
 - Cargo เป็นตัวคอยจัดการเรื่อง build code, compile code และทำให้ การจัดการ dependency เป็นไปได้อย่างราบรื่น และสม่ำเสมอในทุกๆที่ ที่ใช้ Rust 
-* `rustfmt` เป็นตัวคอยตรวจสอบความสม่ำเสมอของรูปแบบการเขียน code ระหว่างนักพัฒนาด้วยกันเอง
-* The Rust Language Server เป็นพลังในการช่วย Integrated Development Environment (IDE) ในการทำ code completion และการแจ้งเตือน error messages ในแต่ละบรรทัด 
+- `rustfmt` เป็นตัวคอยตรวจสอบความสม่ำเสมอของรูปแบบการเขียน code ระหว่างนักพัฒนาด้วยกันเอง
+- The Rust Language Server เป็นพลังในการช่วย Integrated Development Environment (IDE) ในการทำ code completion และการแจ้งเตือน error messages ในแต่ละบรรทัด 
 
 ด้วยการใช้งานเครื่องมือเหล่านี้ในสภาพแวดล้อมของ Rust นักพัฒนาจึงสามารถสนใจเพียงการพัฒนา program ตาม business ได้ (system-level)
 
